@@ -27,6 +27,7 @@
 - olist_order_items_dataset.csv — данные о товарах внутри заказов.
 
 #### Визуализация данных
+<img src="images/retention.png" width="500" alt="Удержание клиентов по месяцам">
 ![Удержание клиентов по месяцам](images/retention.png)
 
 ![Выручка маркетплейса по месяцам](images/revenue.png)
