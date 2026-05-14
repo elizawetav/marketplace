@@ -27,13 +27,16 @@
 - olist_order_items_dataset.csv — данные о товарах внутри заказов.
 
 #### Визуализация данных
-<img src="images/retention.png" width="600" alt="Удержание клиентов по месяцам">
-
-<img src="images/revenue.png" width="500" alt="Выручка маркетплейса по месяцам">
-
-<img src="images/unique_users.png" width="500" alt="Количество уникальных пользователей с заказами по месяцам">
-
-<img src="images/arpu.png" width="500" alt="ARPU по месяцам">
+<table>
+  <tr>
+    <td><img src="images/retention.png" width="400" alt="Удержание клиентов"></td>
+    <td><img src="images/revenue.png" width="400" alt="Выручка"></td>
+  </tr>
+  <tr>
+    <td><img src="images/unique_users.png" width="400" alt="Уникальные пользователи"></td>
+    <td><img src="images/arpu.png" width="400" alt="ARPU"></td>
+  </tr>
+</table>
 
 #### Результаты проекта
 - Медианный retention 1-го месяца для всех когорт составил 0.35%, практически все когорты показывают резкое падение удержания после первой покупки. Анализ retention показал отсутствие устойчивого пользовательского поведения и низкую вероятность повторной покупки.
